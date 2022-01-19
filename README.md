@@ -23,15 +23,17 @@
 
 
 ## UI Homepage:
-    <img width="1440" alt="Screenshot 2022-01-19 at 7 24 03 PM" src="https://user-images.githubusercontent.com/81481787/150145290-c5ce5750-fb7d-4260-8a01-160900f4ac20.png">
-    
+<img width="1440" alt="Screenshot 2022-01-19 at 7 24 03 PM" src="https://user-images.githubusercontent.com/81481787/150145871-962fc605-2191-407c-baa2-ee5034b3b6a3.png">
+
 ## User Management
-    <img width="1440" alt="Screenshot 2022-01-19 at 7 24 14 PM" src="https://user-images.githubusercontent.com/81481787/150145697-b995719b-0e01-4a66-b287-82ce4cb7dec9.png">
+<img width="1440" alt="Screenshot 2022-01-19 at 7 24 14 PM" src="https://user-images.githubusercontent.com/81481787/150145910-4a012493-c076-4c25-bc6e-2e698fd47821.png">
 
 ## Product Management
-   <img width="1440" alt="Screenshot 2022-01-19 at 7 24 21 PM" src="https://user-images.githubusercontent.com/81481787/150145735-a04f9839-9c21-4519-934e-b78ba6cb824d.png">
+<img width="1440" alt="Screenshot 2022-01-19 at 7 24 21 PM" src="https://user-images.githubusercontent.com/81481787/150145929-a775e8b8-c7ab-4658-9ab8-c2f837538fb2.png">
 
-    <img width="1440" alt="Screenshot 2022-01-19 at 7 24 43 PM" src="https://user-images.githubusercontent.com/81481787/150145752-5eb0f072-9206-4dfa-8596-42ea67970fa4.png">
+<img width="1440" alt="Screenshot 2022-01-19 at 7 24 43 PM" src="https://user-images.githubusercontent.com/81481787/150145948-d49d5f3c-2cf2-40b6-9181-c3fd05428601.png">
+
+
 
     
 
