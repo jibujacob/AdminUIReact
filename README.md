@@ -1,7 +1,7 @@
 # Admin Page for Ecommerce Site (MVP) <In Progress>
-
-
-## This Site is 'In Progress' , it will be integrated with the Ecommerce site for inventory management. Current only the React UI is completed with dummy data
+   
+## This Site is 'In Progress' , it will be integrated with the Ecommerce site for inventory management. Current only the React UI is completed with dummy data.
+### Site Link:
     
 ## Approach
     This application is developed with the MERN Stack and implemented with a microservices architecture.Implemented with TDD Approach
